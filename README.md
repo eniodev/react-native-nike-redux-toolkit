@@ -18,8 +18,8 @@
 - 💻 &nbsp; From the folder run: <code>npx expo start</code> 
 
 <div>
-  <img  align="right" alt="GIF" width="20%" height="40%" src="https://user-images.githubusercontent.com/49740149/218321825-86f00209-7444-415f-b043-0de84c9b6398.jpg"/>
-  <img  align="right" alt="GIF" width="20%" height="40%" src="https://user-images.githubusercontent.com/49740149/218321834-61ffb15c-9c84-4a73-831e-0ef21db7ad68.jpg"/>
   <img  align="right" alt="GIF" width="20%" height="40%" src="https://user-images.githubusercontent.com/49740149/218321843-7b3dc4fc-0d6c-4945-a844-762d78eeaf6e.jpg"/>
+  <img  align="right" alt="GIF" width="20%" height="40%" src="https://user-images.githubusercontent.com/49740149/218321834-61ffb15c-9c84-4a73-831e-0ef21db7ad68.jpg"/>
+  <img  align="right" alt="GIF" width="20%" height="40%" src="https://user-images.githubusercontent.com/49740149/218321825-86f00209-7444-415f-b043-0de84c9b6398.jpg"/>
 
 </div>
