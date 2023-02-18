@@ -14,7 +14,7 @@
 
 <h3>How to run it locally</h3>
 
-- 💻 &nbsp; Donwload the ZIP file or Clone using: <code>gh repo clone datwayskrt/react-native-nike-redux-toolkit</code>
+- 💻 &nbsp; Donwload the ZIP file or clone this project using: <code>gh repo clone datwayskrt/react-native-nike-redux-toolkit</code>
 - 💻 &nbsp; From the folder run: <code>npx expo start</code> 
 
 <div>
